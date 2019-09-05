@@ -10,3 +10,17 @@
 
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
+
+# Hugo, etc
+_site/*
+*.aux
+*.log
+*.out
+*.toc
+.jekyll-metadata
+.DS_Store
+.~*
+*.sw[po]
+.bundle
+/public
+/resources
